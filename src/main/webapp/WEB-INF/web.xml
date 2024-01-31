@@ -48,5 +48,15 @@
     <servlet-name>lecture9</servlet-name>
     <url-pattern>/success</url-pattern>
   </servlet-mapping>
+  
+  
+  <servlet>
+    <servlet-name>lecture15</servlet-name>
+    <servlet-class>Package1.Servlet1</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>lecture15</servlet-name>
+    <url-pattern>/omkar</url-pattern>
+  </servlet-mapping>
 </web-app>
 </element>

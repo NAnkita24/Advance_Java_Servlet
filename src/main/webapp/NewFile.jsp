@@ -13,5 +13,6 @@
 		<input type="button" value="Login">
 		<br>
 		<a href="login">Login</a>
+		
 </body>
 </html>
